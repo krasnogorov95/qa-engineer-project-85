@@ -37,7 +37,7 @@
 
 - summary: |
     Победа в игре
-  status: pass
+  status: fail
 
 - summary: |
     Возможность сдаться
