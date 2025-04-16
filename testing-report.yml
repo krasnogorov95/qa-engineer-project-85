@@ -1,0 +1,56 @@
+---
+- summary: |
+    Успешная регистрация
+  status: pass
+
+- summary: |
+    Успешная авторизация
+  status: pass
+
+- summary: |
+    Сквозная регистрация через GitHub
+  status: pass
+
+- summary: |
+    Восстановление пароля созданного аккаунта
+  status: pass
+
+- summary: |
+    Получение письма с инструкциями о восстановлении пароля
+  status: pass
+
+- summary: |
+    Создание игры без авторизации
+  status: pass
+
+- summary: |
+    Создание игры с ботом
+  status: pass
+
+- summary: |
+    Создание закрытой игры по приглашениям
+  status: pass
+
+- summary: |
+    Создание открытой игры
+  status: pass
+
+- summary: |
+    Победа в игре
+  status: pass
+
+- summary: |
+    Возможность сдаться
+  status: pass
+
+- summary: |
+    Просмотр записи завершенной игры из истории
+  status: pass
+
+- summary: |
+    Просмотр записи завершенной игры из истории
+  status: pass
+
+- summary: |
+    Создание открытого турнира
+  status: pass
