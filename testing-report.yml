@@ -12,15 +12,19 @@
   status: pass
 
 - summary: |
+    Сквозная регистрация через Discord
+  status: fail
+
+- summary: |
     Восстановление пароля созданного аккаунта
   status: pass
 
 - summary: |
-    Получение письма с инструкциями о восстановлении пароля
+    Создание игры без авторизации
   status: pass
 
 - summary: |
-    Создание игры без авторизации
+    Присоединение к уже созданной игре
   status: pass
 
 - summary: |
@@ -37,14 +41,14 @@
 
 - summary: |
     Победа в игре
-  status: fail
+  status: pass
 
 - summary: |
     Возможность сдаться
   status: pass
 
 - summary: |
-    Просмотр записи завершенной игры из истории
+    Наблюдение за чужой игрой
   status: pass
 
 - summary: |
@@ -52,5 +56,45 @@
   status: pass
 
 - summary: |
-    Создание открытого турнира
+    Просмотр записи завершенной игры из истории
+  status: pass
+
+- summary: |
+    Создание турнира
+  status: pass
+
+- summary: |
+    Смена языка программирования во время игры
+  status: pass
+
+- summary: |
+    Смена языка описания задачи во время игры
+  status: pass
+
+- summary: |
+    Создание нового клана
+  status: pass
+
+- summary: |
+    Вступление в созданный клан
+  status: pass
+
+- summary: |
+    Вступление в созданный клан
+  status: pass
+
+- summary: |
+    Смена имени пользователя
+  status: pass
+
+- summary: |
+    Отправка сообщения в чат
+  status: pass
+
+- summary: |
+    Просмотр рейтинга игроков
+  status: pass
+
+- summary: |
+    Создание новой задачи
   status: pass
